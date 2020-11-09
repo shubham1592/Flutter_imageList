@@ -1,6 +1,6 @@
-# flutter_app
+# flutter_imageList
 
-A new Flutter application.
+My first Flutter application.
 
 ## Getting Started
 
@@ -14,3 +14,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## ABOUT
+This is basically an app that pulls an http request to fetch a json file from https://jsonplaceholder.typicode.com/photos and extracts the id, title, image url and displays in on the app in a vertical layout each time the ADD button is pressed.
+Made with Flutter and Dart on Android Studio
+
+### Shubham Kumar
